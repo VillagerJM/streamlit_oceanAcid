@@ -36,4 +36,4 @@ if st.button("시뮬레이션 실행"):
     st.success(f"📈 예상 pH 변화: **{pH0} → {pH1}** (ΔpH = +{dpH})")
 
 st.markdown("---")
-st.markdown("💡 예시: SEEDS I, 2001 → Fe=2, DIC=2100, 깊이=30m, 효율계수 1.0")  최종
+st.markdown("💡 예시: SEEDS I, 2001 → Fe=2, DIC=2100, 깊이=30m, 효율계수 1.0")
